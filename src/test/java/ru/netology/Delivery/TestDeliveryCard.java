@@ -17,7 +17,7 @@ public class TestDeliveryCard {
     }
 
     @Test
-    public void shouldBESuccessFullyComplited() {
+    public void testDelivery() {
 
         open("http://localhost:9999");
         $("[data-test-id=city] input").setValue("Москва");
