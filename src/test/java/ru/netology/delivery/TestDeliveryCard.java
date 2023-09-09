@@ -1,4 +1,4 @@
-package ru.netology.Delivery;
+package ru.netology.delivery;
 
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
